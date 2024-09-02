@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![image](https://github.com/user-attachments/assets/6a5ba21c-a2ab-49e0-bf8b-43ae1df4a497)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsh16&label=Profile%20views&color=0e75b6&style=flat" alt="adsh16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adsh16" alt="adsh16" /></a> </p>
