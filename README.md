@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align = "center">![image](https://github.com/user-attachments/assets/f6b04487-9e04-47a0-a248-abb717db8df2)</img>
 
+![image](https://github.com/user-attachments/assets/017e2aff-34c1-4b6a-8636-d91eb460306a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsh16&label=Profile%20views&color=0e75b6&style=flat" alt="adsh16" /> </p>
 
