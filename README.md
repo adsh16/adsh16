@@ -20,6 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adsh16&show_icons=true&locale=en&layout=compact" alt="adsh16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adsh16&show_icons=true&locale=en" alt="adsh16" /></p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/beatmeloser)](https://leetcode.com/beatmeloser)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adsh16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fdg" /></a></p><br><br>
 <hr>
