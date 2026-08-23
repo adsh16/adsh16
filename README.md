@@ -1,9 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm <strong>Aditya Sharma</strong>
-</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=A+passionate+developer+from+India" alt="Typing SVG" />
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsh16&label=Profile%20views&color=0e75b6&style=flat" alt="adsh16" /> </p>
 
